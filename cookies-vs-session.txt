@@ -1,0 +1,3 @@
+Cookies are stored in the browser
+ while session is stored in the server
+
